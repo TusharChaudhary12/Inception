@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Element(Object) ==> HTML (Browser Understand )
 Render method convert the React element into HTML
 
@@ -9,3 +10,7 @@ Render method replace the content inside the root element
 
 Crossorigin
 
+=======
+# Inception
+Inception of React
+>>>>>>> origin/main
